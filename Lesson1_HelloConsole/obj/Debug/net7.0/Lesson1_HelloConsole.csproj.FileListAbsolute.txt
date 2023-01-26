@@ -1,0 +1,15 @@
+C:\Users\a.ushakevich\Desktop\C learn\Lesson1_HelloConsole\bin\Debug\net7.0\Lesson1_HelloConsole.exe
+C:\Users\a.ushakevich\Desktop\C learn\Lesson1_HelloConsole\bin\Debug\net7.0\Lesson1_HelloConsole.deps.json
+C:\Users\a.ushakevich\Desktop\C learn\Lesson1_HelloConsole\bin\Debug\net7.0\Lesson1_HelloConsole.runtimeconfig.json
+C:\Users\a.ushakevich\Desktop\C learn\Lesson1_HelloConsole\bin\Debug\net7.0\Lesson1_HelloConsole.dll
+C:\Users\a.ushakevich\Desktop\C learn\Lesson1_HelloConsole\bin\Debug\net7.0\Lesson1_HelloConsole.pdb
+C:\Users\a.ushakevich\Desktop\C learn\Lesson1_HelloConsole\obj\Debug\net7.0\Lesson1_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\a.ushakevich\Desktop\C learn\Lesson1_HelloConsole\obj\Debug\net7.0\Lesson1_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.ushakevich\Desktop\C learn\Lesson1_HelloConsole\obj\Debug\net7.0\Lesson1_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\a.ushakevich\Desktop\C learn\Lesson1_HelloConsole\obj\Debug\net7.0\Lesson1_HelloConsole.AssemblyInfo.cs
+C:\Users\a.ushakevich\Desktop\C learn\Lesson1_HelloConsole\obj\Debug\net7.0\Lesson1_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\a.ushakevich\Desktop\C learn\Lesson1_HelloConsole\obj\Debug\net7.0\Lesson1_HelloConsole.dll
+C:\Users\a.ushakevich\Desktop\C learn\Lesson1_HelloConsole\obj\Debug\net7.0\refint\Lesson1_HelloConsole.dll
+C:\Users\a.ushakevich\Desktop\C learn\Lesson1_HelloConsole\obj\Debug\net7.0\Lesson1_HelloConsole.pdb
+C:\Users\a.ushakevich\Desktop\C learn\Lesson1_HelloConsole\obj\Debug\net7.0\Lesson1_HelloConsole.genruntimeconfig.cache
+C:\Users\a.ushakevich\Desktop\C learn\Lesson1_HelloConsole\obj\Debug\net7.0\ref\Lesson1_HelloConsole.dll
